@@ -4,12 +4,12 @@
 3. Import License into SMGR and Get License for AES	
 - Reference documentation
 
---------------------------------
+------------------------------------------------------
 
 ## Required Material for AES Installation	
 [^Back to content](#content)
 
-Get the Reference Documentation from Support website
+> Get the Reference Documentation from Support website
 `Support.avaya.com` `Menu "Supported by Product"` `Documents`
 ```
 Product : AES 
@@ -17,14 +17,37 @@ version : 8.1.x
 Content Type: Release Notes , Overview , Installation, User Guides, Maintenance & Troubleshooting
 ```
 
-
-
-
--------------------------------------------------------------------
+> Deploying Avaya Aura® Application Enablement Services in Virtualized Environment.pdf
+- Plan `IP` `Netmask` `Gateway` `DNS` `NTP` `FQDN`   _in file Lab Info.xlsx_
+- Hardware
+  - CSR3
+- Deployment mode
+  - Physical machine *Soft-only, iso file* 
+  - *VE* (Virtualized Environment) (? what is VE and its components? refer to P9 and P11) *OVA file* 
+  - AVP
+  - IaaS
+- installation file
+  - PLDS website *Download the AES OVA file*
+- License
+  - PLDS website *Download the license file*
+  - WebLM (? where is WebLM? `Standalone WebLM` `SGMR` `embeded WebLM server in AES`)
+------------------------------------------------------
 
 ## Steps of AES Installation	
 [^Back to content](#content)
-## Import License into SMGR and Get License for AES	[^Back]
+
+_We are using VE to deploy the AES_
+- Go go [VMware EXSi webpage](https://sdlabsvcenter02.gl.avaya.com), login with your account
+- [VEWebpage]
+
+
+
+
+
+
+
+
+## Import License into SMGR and Get License for AES
 
 
 
