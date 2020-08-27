@@ -48,7 +48,7 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 
 
 
-[^Back to content](#content)
+
 ### Reference documentation
 - Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
 - Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
