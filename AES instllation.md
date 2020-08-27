@@ -99,3 +99,5 @@ Software-Only environment
 
 
 [^Back to content](#content)
+
+<img class="img" src="https://f12.baidu.com/it/u=504515477,387914469&amp;fm=76">
