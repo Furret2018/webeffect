@@ -1,7 +1,8 @@
 ### content
 1. Required Material for AES Installation	<a name="part1">			
-2. Steps of AES Installation				
+2. Steps of AES Installation <a name="part1">	
 3. Import License into SMGR and Get License for AES	
+- Reference documentation
 
 --------------------------------
 
@@ -22,7 +23,7 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 -------------------------------------------------------------------
 
 ## Steps of AES Installation	
-[^Back]
+[^Back to content](#part2)
 ## Import License into SMGR and Get License for AES	[^Back]
 
 
@@ -49,9 +50,10 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 
 
 ### Reference documentation
-Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
-Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
+- Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
+- Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
 Content:
+```
 Avaya Aura® Virtualized Appliance overview 
 1) Avaya Aura® Virtualized Appliance is a turnkey solution.
     The Virtualized Appliance offer is different from Avaya Aura® Virtualized Environment
@@ -67,9 +69,10 @@ Supported software
 Avaya Aura® Virtualized Appliance
 Customer-provided Virtualized Environment solution
 Software-Only environment
+```
 -------------------------------------------------------------------
-Doc Name: Planning for Deploying Avaya Aura® applications Release 8.1.x
-Local Name: [2020-03] 准备工作 Planning For Deploying AAAPPs.pdf
+- Doc Name: Planning for Deploying Avaya Aura® applications Release 8.1.x
+- Local Name: [2020-03] 准备工作 Planning For Deploying AAAPPs.pdf
 
 
 
