@@ -9,13 +9,12 @@
 
 
 Get the Reference Documentation from Support website
-`Support.avaya.com 
-> Menu "Supported by Product" 
-> Documents`
-
+`Support.avaya.com` `Menu "Supported by Product"` `Documents`
+```
 Product : AES 
 version : 8.1.x
 Content Type: Release Notes , Overview , Installation, User Guides, Maintenance & Troubleshooting
+```
 -------------------------------------------------------------------
 
 ## Steps of AES Installation	[^Back to content]
