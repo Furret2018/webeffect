@@ -1,6 +1,6 @@
-### content
+## content
 1. Required Material for AES Installation	<a name="part1">			
-2. Steps of AES Installation <a name="part1">	
+2. Steps of AES Installation <a name="part2">	
 3. Import License into SMGR and Get License for AES	
 - Reference documentation
 
