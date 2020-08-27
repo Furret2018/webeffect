@@ -1,4 +1,4 @@
-## Contend
+## Content
 1. Required Material for AES Installation				
 2. Steps of AES Installation 
 3. Import License into SMGR and Get License for AES	
@@ -75,4 +75,4 @@ Software-Only environment
 - Local Name: [2020-03] 准备工作 Planning For Deploying AAAPPs.pdf
 
 
-[^Back to content](#contend)
+[^Back to content](#content)
