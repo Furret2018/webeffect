@@ -7,7 +7,7 @@
 --------------------------------
 
 ## Required Material for AES Installation	
-[Back](#part1)
+[^Back to content](#content)
 
 Get the Reference Documentation from Support website
 `Support.avaya.com` `Menu "Supported by Product"` `Documents`
@@ -23,7 +23,7 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 -------------------------------------------------------------------
 
 ## Steps of AES Installation	
-[^Back to content](#part2)
+[^Back to content](#content)
 ## Import License into SMGR and Get License for AES	[^Back]
 
 
@@ -48,7 +48,7 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 
 
 
-
+[^Back to content](#content)
 ### Reference documentation
 - Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
 - Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
