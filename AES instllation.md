@@ -69,7 +69,7 @@ P14-WebLogin.png
 P14-WebLogin02.png                                                    
 P14-WebLogin03.png  
 ```
-<img src="\\aspac.convergys.com\cvg\SZH_Dept\Avaya Intl. Support Desk_Agents\Avaya GC Team\Suzhou SD self training\AES\AES installation screenshot\P07-storage.png">
+<img src="https://avaya365-my.sharepoint.com/:i:/g/personal/liu300_avaya_com/EbHIyW8EamRFpyThWHsxHUgBKxwIEx7dkLZEOgQlxhabsw?e=mzwvvv">
 ## Import License into SMGR and Get License for AES
 
 
