@@ -39,7 +39,7 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 _We are using VE to deploy the AES_
 ```
 - Go go [VMware EXSi webpage](https://sdlabsvcenter02.gl.avaya.com)
-- screenshot of the installation                                           
+- screenshot of the installation                                          
                                          
 P01-VEWebpage.png                                                     
 P02-OVA file.png                                                    
@@ -69,32 +69,27 @@ P14-WebLogin.png
 P14-WebLogin02.png                                                    
 P14-WebLogin03.png  
 ```
-<img src="https://avaya365-my.sharepoint.com/:i:/g/personal/liu300_avaya_com/EbHIyW8EamRFpyThWHsxHUgBKxwIEx7dkLZEOgQlxhabsw?e=mzwvvv">
-## Import License into SMGR and Get License for AES
 
+---------------------------------------------------
 
+## Import License to WebLM and Get License for AES
 
+> Refer to document 
+- `Deploying AES in VE` Section **AE Services licensing** P113
+- `AES overview and specification` Seciton **Licensing configuration examples** P43
 
+> Get license from PLDS
 
+> import the license to WebLM
+we use the WebLM in AES server *Embeded WebLM*
+screenshot
+- P01-PopupWndBlock.png
+- P02-DisableBlock.png
+- P02-DisableBlock02.png
+- P03-LicenseWebpage.png
+> Get License from WebLM *set the WebLM server IP for AES*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-------------------------------------------
 ### Reference documentation
 - Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
 - Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
