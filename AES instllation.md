@@ -81,15 +81,20 @@ P14-WebLogin03.png
 > Get license from PLDS
 
 > import the license to WebLM
+
 we use the WebLM in AES server *Embeded WebLM*
-screenshot
+```
+screenshot of importing license
+
 - P01-PopupWndBlock.png
 - P02-DisableBlock.png
 - P02-DisableBlock02.png
 - P03-LicenseWebpage.png
 > Get License from WebLM *set the WebLM server IP for AES*
+```
 
 -------------------------------------------
+
 ### Reference documentation
 - Doc Name: Upgrading Avaya Aura® Appliance Virtualization Platform Release 8.1.x
 - Local File Name: [2020-03] 升级AVP平台Upgrading Appliance Virtualization Platform.pdf
