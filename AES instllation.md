@@ -39,8 +39,8 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 _We are using VE to deploy the AES_
 ```
 - Go go [VMware EXSi webpage](https://sdlabsvcenter02.gl.avaya.com)
-- screenshot of the installation                                                    
-<img src="\\aspac.convergys.com\cvg\SZH_Dept\Avaya Intl. Support Desk_Agents\Avaya GC Team\Suzhou SD self training\AES\AES installation screenshot\P07-storage.png">                                         
+- screenshot of the installation                                           
+                                         
 P01-VEWebpage.png                                                     
 P02-OVA file.png                                                    
 P03-CR.png   
@@ -69,7 +69,7 @@ P14-WebLogin.png
 P14-WebLogin02.png                                                    
 P14-WebLogin03.png  
 ```
-
+<img src="\\aspac.convergys.com\cvg\SZH_Dept\Avaya Intl. Support Desk_Agents\Avaya GC Team\Suzhou SD self training\AES\AES installation screenshot\P07-storage.png">
 ## Import License into SMGR and Get License for AES
 
 
