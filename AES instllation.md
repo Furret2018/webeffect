@@ -37,15 +37,38 @@ Content Type: Release Notes , Overview , Installation, User Guides, Maintenance 
 [^Back to content](#content)
 
 _We are using VE to deploy the AES_
-- Go go [VMware EXSi webpage](https://sdlabsvcenter02.gl.avaya.com), login with your account
-- [VEWebpage]
-
-
-
-
-
-
-
+```
+- Go go [VMware EXSi webpage](https://sdlabsvcenter02.gl.avaya.com)
+- screenshot of the installation                                                    
+<img src="\\aspac.convergys.com\cvg\SZH_Dept\Avaya Intl. Support Desk_Agents\Avaya GC Team\Suzhou SD self training\AES\AES installation screenshot\P07-storage.png">                                         
+P01-VEWebpage.png                                                     
+P02-OVA file.png                                                    
+P03-CR.png   
+P04-Review.png                                                   
+P05-LA.png                                                            
+P06-RESconfig.png                                                     
+P07-storage.png                                                       
+P08-Network.png                                                       
+P09-CT.png                                                            
+P09-CT02.png                                                          
+P09-CT03.png                                                          
+P09-CT04.png                                                          
+P09-CT05.png                                                          
+P09-CT06.png                                                          
+P09-CT07.png                                                          
+P09-CT08.png                                                          
+P09-CT09.png                                                          
+P09-CT10.png                                                          
+P10-VMinList.png                                                      
+P11-CheckInstallationProgress.png                                     
+P11-CIP02.png                                                         
+P12-StartAESVM.png                                                    
+P13-CLICheckVersion.png                                               
+P13-CLILogin.png                                                      
+P14-WebLogin.png                                                      
+P14-WebLogin02.png                                                    
+P14-WebLogin03.png  
+```
 
 ## Import License into SMGR and Get License for AES
 
@@ -102,4 +125,4 @@ Software-Only environment
 
 
 
-<image style="color:white;" src="https://f12.baidu.com/it/u=504515477,387914469&amp;fm=76">
+
