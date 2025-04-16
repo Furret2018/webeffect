@@ -1,4 +1,4 @@
-website	Account name	Password
+|website	| Account name |	Password|
 |:-:| :-: | : - :|
 | nowcoder |~	|Aura2023|
 baidu	~	Aura2022
