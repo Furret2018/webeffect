@@ -1,6 +1,5 @@
-|website	| Account name |	Password|
-|:-:| :-: | : - :|
-| nowcoder |~	|Aura2023|
+|website	| Account name |	Password|     
+| nowcoder |~	|Aura2023|    
 baidu	~	Aura2022
 zhihu	~	md20220729
 Bilibili~	Aura2019
